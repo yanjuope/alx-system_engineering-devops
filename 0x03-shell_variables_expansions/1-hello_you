@@ -1,2 +1,2 @@
 #!/bin/bash
-hello_you="users *"
+echo hello $USER
